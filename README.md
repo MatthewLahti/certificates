@@ -3,7 +3,7 @@ School | Course name | Certificate link
 --- | --- | ---
 UC San Diego | [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)  | https://www.coursera.org/account/accomplishments/certificate/MTW8E6FG2LRR
 University of Alberta | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | https://www.coursera.org/account/accomplishments/certificate/YVA5JY2TFMY9
-UC San Diego | [Numer Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) | https://www.coursera.org/account/accomplishments/certificate/8CY78ZF7JMXH
+UC San Diego | [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) | https://www.coursera.org/account/accomplishments/certificate/8CY78ZF7JMXH
 UC San Diego | [Delivery Problem](https://www.coursera.org/learn/delivery-problem) | https://www.coursera.org/account/accomplishments/certificate/KFVCYWQDJNPK
 UC San Diego | [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics) | https://www.coursera.org/account/accomplishments/certificate/G9EKCVD5V23N
 UC San Diego | [Introduction to Graph Theory](https://www.coursera.org/learn/graphs) | https://www.coursera.org/account/accomplishments/certificate/TRVWS4SSN78U
