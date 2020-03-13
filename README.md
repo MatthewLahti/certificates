@@ -19,7 +19,3 @@ Google | [Using Python to Interact with the Operating System](https://www.course
 Google | [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | https://www.coursera.org/account/accomplishments/certificate/D7ZG5C666BRZ
 
 
-
-School | Specialization name | Certificate link
---- | --- | ---
-UC San Diego | [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics) | https://www.coursera.org/account/accomplishments/specialization/certificate/EXRNR9CGS3DB
